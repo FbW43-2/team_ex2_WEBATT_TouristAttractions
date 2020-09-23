@@ -5,4 +5,38 @@ body {
   background-attachment: fixed;
   background-size: cover;
   background-color: black;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-size: 200px;
+  border-style: solid;
+}
+
+a {
+  font-size: 40px;
+  color: white;
+}
+
+.Slogan {
+  font-size: 60px;
+  text-decoration: wavy;
+  font-style: italic;
+}
+
+.ListParagraph {
+  position: absolute;
+  width: 50%;
+  height: 50%;
+  margin-bottom: 1%;
+  margin-left: 25%;
+  margin-right: 25%;
+  display: table;
+  background-color: black;
+  font-size: 40px;
+}
+
+.VolcanArenal {
+  border-radius: 10px;
 }
